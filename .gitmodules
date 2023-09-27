@@ -1,3 +1,3 @@
-[submodule "MassQueryLanguage"]
-	path = MassQueryLanguage
+[submodule "bin/MassQueryLanguage"]
+	path = bin/MassQueryLanguage
 	url = https://github.com/albertogilf/MassQueryLanguage.git
